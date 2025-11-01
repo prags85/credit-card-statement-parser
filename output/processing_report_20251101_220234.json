@@ -1,0 +1,13 @@
+{
+  "timestamp": "20251101_220234",
+  "total_processed": 1,
+  "successful": 0,
+  "failed": 1,
+  "details": [
+    {
+      "success": false,
+      "file": "input/hdfc_statement_202510_5678.pdf",
+      "error": "Could not detect bank from statement"
+    }
+  ]
+}
